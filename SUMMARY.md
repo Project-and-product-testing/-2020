@@ -2,7 +2,7 @@
   * [简介](README.md)
   * [系统背景](ch0/preface.md)
       * [网络环境](ch0/RepSearchPractice.md)
-      * [市场环境](ch0/RepTaskBasic.md)_
+      * [市场环境](ch0/RepTaskBasic.md)
       * [现场环境](ch0/RepTaskAdvanced.md)
       * [客户需求](ch0/handbook.md)
   * [第一讲：测试目的](ch1/README.md)
